@@ -29,7 +29,7 @@
 - Opportunities to work with **cloud security, threat intelligence, and incident response**.
 - A collaborative and research-driven security team where I can contribute and grow.
 
-## Resume:
+## :page_with_curl: Resume:
 - **Format**: PDF
 - **Last Updated**: February 2025
 
