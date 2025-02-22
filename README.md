@@ -29,6 +29,13 @@
 - Opportunities to work with **cloud security, threat intelligence, and incident response**.
 - A collaborative and research-driven security team where I can contribute and grow.
 
+## Resume:
+- **Format**: PDF
+- **Last Updated**: February 2025
+
+You can view or download my resume from the following link:
+
+[Download Resume from Google Drive](https://drive.google.com/file/d/1uiIqh8YHxaJ6Be9BKA6fA04XQwn5aycc/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
