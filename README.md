@@ -1,4 +1,14 @@
 <h1>Hi, I'm Raghavendra Kari! <br/><a href="https://github.com/Raghav00111">Programmer</a>, <a href="https://www.linkedin.com/in/raghavendra-kari/">Cybersecurity Professional</a>
+  
+<h2> About me:</h2>  
+👋 Hi, I'm Raghavendra Kari, a cybersecurity professional with expertise in cloud security, threat detection, and secure architectures. Currently pursuing my M.S. in Cybersecurity at Saint Louis University (graduating May 2025, GPA: 3.52/4). I'm actively looking for any SOC Analyst and Security Engineer roles anywhere in the US and in India
+
+### 🛠️ Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-Falcon-red?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-00A300?style=for-the-badge&logo=splunk&logoColor=white)
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -14,7 +24,15 @@
 - [Planning 101 for Data Science](https://courses.cognitiveclass.ai/certificates/84fe2b3ec5024724b572aa211b2da2aa)
 - [Building a Machine Learning Ready Organization (AWS)](https://drive.google.com/file/d/15hNvRuyoYiTXr4-ZiE9fkR1qz7ydE5Fu/view?usp=sharing)
 
+### 🚀 What I'm Looking For:
+- Full-time **Cybersecurity Analyst | Cloud Security Engineer | Threat Detection Specialist** roles.
+- Opportunities to work with **cloud security, threat intelligence, and incident response**.
+- A collaborative and research-driven security team where I can contribute and grow.
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Raghavendra Kari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/raghavendra-kari/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" width="22px" />](mailto:raghavendrakari@outlook.com)
+[<img align="left" alt="Raghavendra Kari | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Raghav00111)
+![Profile Views](https://komarev.com/ghpvc/?username=Raghav00111&color=blue)
