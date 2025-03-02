@@ -31,11 +31,11 @@
 
 ## :page_with_curl: Resume:
 - **Format**: PDF
-- **Last Updated**: February 2025
+- **Last Updated**: March 2025
 
 You can view or download my resume from the following link:
 
-[Download Resume from Google Drive](https://drive.google.com/file/d/1uiIqh8YHxaJ6Be9BKA6fA04XQwn5aycc/view?usp=sharing)
+[Download Resume from Google Drive](https://drive.google.com/file/d/1pI4LKT0his48_glCxXeP78MWQ9JaU2eh/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
