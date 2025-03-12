@@ -35,11 +35,12 @@
 
 You can view or download my resume from the following link:
 
-[Download Resume from Google Drive](https://drive.google.com/file/d/1pI4LKT0his48_glCxXeP78MWQ9JaU2eh/view?usp=sharing)
+[Download Resume from Google Drive](https://drive.google.com/file/d/1GZJ5n_W_jHT_FdE4_5Wv4vzqwxFHYEje/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Raghavendra Kari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/raghavendra-kari/)
+[<img align="left" alt="Raghavendra Kari | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />](https://raghavendrakari.lovable.app)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" width="22px" />](mailto:raghavendrakari@outlook.com)
 [<img align="left" alt="Raghavendra Kari | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Raghav00111)
 ![Profile Views](https://komarev.com/ghpvc/?username=Raghav00111&color=blue)
