@@ -1,4 +1,4 @@
-<h1>Hi, I'm Raghavendra Kari! <br/><a href="https://github.com/Raghav00111">Programmer</a>, <a href="https://www.linkedin.com/in/raghavendra-kari/">Cybersecurity Professional</a>
+<h1>Hi, I'm Raghavendra Kari! <br/> <a href="https://raghavendrakari.lovable.app">Security Researcher</a>, <a href="https://github.com/Raghav00111">Programmer</a>, <a href="https://www.linkedin.com/in/raghavendra-kari/">Cybersecurity Professional</a>
   
 <h2> About me:</h2>  
 👋 Hi, I'm Raghavendra Kari, a cybersecurity professional with expertise in cloud security, threat detection, and secure architectures. Currently pursuing my M.S. in Cybersecurity at Saint Louis University (graduating May 2025, GPA: 3.52/4). I'm actively looking for any SOC Analyst and Security Engineer roles anywhere in the USA
