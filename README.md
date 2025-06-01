@@ -1,7 +1,7 @@
 <h1>Hi, I'm Raghavendra Kari! <br/> <a href="https://raghavendrakari.lovable.app">Security Researcher</a>, <a href="https://github.com/Raghav00111">Programmer</a>, <a href="https://www.linkedin.com/in/raghavendra-kari/">Cybersecurity Professional</a>
   
 <h2> About me:</h2>  
-👋 Hi, I'm Raghavendra Kari, a cybersecurity professional with expertise in cloud security, threat detection, and secure architectures. Currently pursuing my M.S. in Cybersecurity at Saint Louis University (graduating May 2025, GPA: 3.52/4). I'm actively looking for any SOC Analyst and Security Engineer roles anywhere in the USA
+👋 Hi, I'm Raghavendra Kari, Cybersecurity Graduate | SOC Analyst & Security Engineer | Microsoft Azure Certified | Threat Detection | Vulnerability Management | SIEM | DevSecOps | Cloud Security (graduated May 2025, GPA: 3.57/4). I'm actively looking for any SOC Analyst and Security Engineer roles anywhere in the USA
 
 ### 🛠️ Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -31,11 +31,11 @@
 
 ## :page_with_curl: Resume:
 - **Format**: PDF
-- **Last Updated**: March 2025
+- **Last Updated**: May 2025
 
 You can view or download my resume from the following link:
 
-[Download Resume from Google Drive](https://drive.google.com/file/d/1GZJ5n_W_jHT_FdE4_5Wv4vzqwxFHYEje/view?usp=sharing)
+[Download Resume from Google Drive](https://drive.google.com/file/d/1uaOziU8uT86pkpVbLvfsh7D2X4oSBma4/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
