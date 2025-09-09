@@ -31,7 +31,7 @@
 
 ## :page_with_curl: Resume:
 - **Format**: PDF
-- **Last Updated**: July 2025
+- **Last Updated**: September 2025
 
 You can view or download my resume from the following link:
 
