@@ -35,7 +35,7 @@
 
 You can view or download my resume from the following link:
 
-[Download Resume from Google Drive](https://drive.google.com/file/d/1hq9HOjn7TpIWACXdISsuobThv7_N-iSH/view?usp=sharing)
+[Download Resume from Google Drive](https://drive.google.com/file/d/19Mp3UjUpCkVZaK2XjUKpI0xDR4gOK4yG/view?usp=drivesdk)
 
 <h2> 🤳 Connect with me:</h2>
 
