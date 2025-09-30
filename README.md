@@ -42,5 +42,5 @@ You can view or download my resume from the following link:
 [<img align="left" alt="Raghavendra Kari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/raghavendra-kari/)
 [<img align="left" alt="Raghavendra Kari | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />](https://raghavendrakari.lovable.app)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" width="22px" />](mailto:raghavendrakari@outlook.com)
-[<img align="left" alt="Raghavendra Kari | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/Raghav00111)
+[<img align="left" alt="Raghavendra Kari | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/raghavendrakari)
 ![Profile Views](https://komarev.com/ghpvc/?username=Raghav00111&color=blue)
