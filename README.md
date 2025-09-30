@@ -1,7 +1,7 @@
 <h1>Hi, I'm Raghavendra Kari! <br/> <a href="https://raghavendrakari.lovable.app">Security Researcher</a>, <a href="https://github.com/raghavendrakari">Programmer</a>, <a href="https://www.linkedin.com/in/raghavendra-kari/">Cybersecurity Professional</a>
   
 <h2> About me:</h2>  
-👋 Hi, I'm Raghavendra Kari, Cybersecurity Graduate | SOC Analyst & Security Engineer | Microsoft Azure Certified | Threat Detection | Vulnerability Management | SIEM | DevSecOps | Cloud Security (graduated May 2025, GPA: 3.57/4). I'm actively looking for any SOC Analyst and Security Engineer roles anywhere in the USA
+👋 Hi, I'm Raghavendra Kari, Security Software Engineer | Cloud & Cybersecurity | SOC Operations & Detection Engineering | Microsoft Azure & AWS Certified | SIEM, IAM & DevSecOps | Incident Response & Endpoint Security | Open Source Contributer (graduated May 2025, GPA: 3.57/4). I'm actively looking for any SOC Analyst and Security Engineer roles anywhere in the USA and in India
 
 ### 🛠️ Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
